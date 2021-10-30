@@ -1,0 +1,11 @@
+body {
+    font: normal 18pt Arial;
+    color: black;
+    background-color: blanchedalmond;
+}
+img {
+    border-radius: 400px;
+}
+li {
+    text-decoration: none;
+}
