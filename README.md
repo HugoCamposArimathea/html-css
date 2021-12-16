@@ -1,7 +1,7 @@
 <div align="center">
-<h1>🖐 Olá, tudo bem? <br> <em>🖐 Hello, how are you?</em></h1>
-<h4>Esse e apenas um repositório de estudos, sobre HTML5 e CSS3. Mas caso mesmo assim queira dar uma olhada, fique a vontade!😀</h4>
-<h4><em>This is only study repository, about HTML5 and CSS3. But, if you want to take a look, feel free! 😄</em></h4>
+<h1>🖖 Olá, tudo bem? <br> <em>🖖 Hello, how are you?</em></h1>
+<h4>Esse e apenas um repositório de estudos, sobre HTML5 e CSS3 feito para o <a href="https://www.cursoemvideo.com">Curso em Vídeo</a>. Mas caso mesmo assim queira dar uma olhada, fique a vontade!😀</h4>
+<h4><em>This is only study repository, about HTML5 and CSS3 created for the <a href="https://www.cursoemvideo.com">Curso em Vídeo</a>. But, if you want to take a look, feel free! 😄</em></h4>
 
 <hr>
 
